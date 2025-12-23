@@ -123,5 +123,5 @@ prompting()
 
 
 This is wikiblog 2 with some features(say) 
-These lines are to understand purely branch merge
+These jwjwdjsdjwdjwd  
 
