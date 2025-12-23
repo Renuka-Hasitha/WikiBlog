@@ -121,7 +121,3 @@ def prompting():      #this function is for the message that you give
 greet()
 prompting()
 
-
-This is wikiblog 2 with some features(say) 
-These jwjwdjsdjwdjwd  
-
