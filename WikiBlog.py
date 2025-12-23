@@ -124,3 +124,5 @@ prompting()
 
 This is wikiblog 2 with some features(say) 
 These lines are to understand purely branch merge
+
+Now to merge using remote repo
